@@ -1,0 +1,48 @@
+.navBar{
+    background-color: grey;
+}
+
+ul.navBar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    align-self: center;
+    position: relative;
+    top: 0;
+
+
+}
+
+li.navBar{
+    float:left;
+    display:inline;
+    padding:8px;
+    background-color: grey;
+}
+
+li.navBar a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; 
+    
+}
+
+li.navBar a:hover{
+    background-color: darkgray;
+}
+
+.pageTitle{
+    width: 100%;
+    text-align: center;
+}
+
+.currPage{
+    background-color: darkgray;
+}
+
+
+
+            
